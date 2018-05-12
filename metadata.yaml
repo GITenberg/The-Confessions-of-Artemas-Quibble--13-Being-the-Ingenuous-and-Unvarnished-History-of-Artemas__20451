@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1756
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20451#The-Confessions-of-Artemas-Quibble--13-Being-the-Ingenuous-and-Unvarnished-History-of-Artemas_
 gutenberg_issued: '2007-01-26'
 gutenberg_type: Text
 identifiers:
