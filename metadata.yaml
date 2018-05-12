@@ -1,0 +1,33 @@
+_repo: The-Confessions-of-Artemas-Quibble--13-Being-the-Ingenuous-and-Unvarnished-History-of-Artemas__20451
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+description: ''
+gutenberg_issued: '2007-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Attorney and client -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Legal stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: "The Confessions of Artemas Quibble\r\nBeing the Ingenuous and Unvarnished\
+  \ History of Artemas Quibble, Esquire, One-Time Practitioner in the New York Criminal\
+  \ Courts, Together with an Account of the Divers Wiles, Tricks, Sophistries, Technicalities,\
+  \ and Sundry Artifices of Himself and Others of the Fraternity, Commonly Yclept\
+  \ \"Shysters\" or \"Shyster Lawyers\""
+url: http://www.gutenberg.org/ebooks/20451
